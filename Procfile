@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT makeit_5242.wsgi:application
